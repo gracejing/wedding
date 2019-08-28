@@ -3,6 +3,9 @@ package com.jingda.wedding;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author chendatao
+ */
 @SpringBootApplication
 public class WeddingApplication {
 
