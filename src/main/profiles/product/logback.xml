@@ -5,7 +5,7 @@
 <!-- at http://www.qos.ch/mailman/listinfo/logback-user             -->
 <!--                                                                -->
 <!-- For professional support please see                            -->
-<!--    http://www.qos.ch/shop/products/professionalSupport         -->
+<!--    http://www.qos.ch/shop/products/profession alSupport         -->
 <!--                                                                -->
 <configuration scan="true">
     <property name="APP" value="wedding"/>
